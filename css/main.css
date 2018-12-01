@@ -11,6 +11,7 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
 .btn {
   padding: .4em .75em .3em;
   border-radius: 8px;
@@ -18,7 +19,9 @@ div {
   border-color: #000;
   border-style: solid;
   font-size: 1.125rem;
+  display: inline-block;
 }
+
 .btn-small {
   padding: .4em .75em .3em;
   border-radius: 8px;
